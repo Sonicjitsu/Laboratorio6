@@ -1,6 +1,6 @@
-# LABORATORIO # 05
+# LABORATORIO # 06
 
-TEMA: TEOREMA DE THÉVENIN
+TEMA: TEOREMA DE LA MÁXIMA TRANSFERENCIA DE POTENCIA
 ## 1. OBJETIVOS
 
 **1,1.- GENERAL** 
@@ -95,7 +95,7 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 **ANÁLISIS DE RESULTADOS Y CÁLCULO DEL ERROR**
 
-VALORES DEL CIRCUITO EQUIVALENTE DE THÉVENIN
+Parámetros Eléctricos del circuito
 
 * **VTH (V)**
 
