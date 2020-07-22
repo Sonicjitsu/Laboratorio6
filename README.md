@@ -97,27 +97,18 @@ Fundamentalmente los prerrequisitos que requiere este laboratorio sería: un dis
 
 Parámetros Eléctricos del circuito
 
-* **VTH (V)**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 5.06 V | 5.0556 V |
-
-* **RTH Ω**
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-| 299 Ω | 298.86 Ω |
-
-COMPROBACIÓN DEL TEOREMA DE THÉVENIN 
-
- * **CIRCUITO ORIGINAL**
-
-* VOLTAJE (V)
-
-| RL (Ω) |  | 
-|----------|------|
-| 4.22 V | 3.9 V |
+| RL (Ω) | Corriente medida (mA) | Voltaje medido (V) | Potencia calculada experimentalmente (W) | Potencia calculada teóricamente (W) |
+|----------|------|----------|------|----------|------|
+| 220  | 3.9 V |
+| 470
+| 680
+| 820
+| 1000
+| 1500
+| 1800  
+| 2200 
+| 3900
+| 4700
 
 
 
