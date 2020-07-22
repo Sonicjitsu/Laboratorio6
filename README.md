@@ -26,10 +26,10 @@ Con el teorema se busca determinar la potencia consumida por una resistencia en 
 ![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/pic169.jpg)
 
 La potencia disipada en RL se calcula de la siguiente forma, conociendo que por Ley de Watt la pontencia es P= IxV y que por Ley de Ohm V= IxR o I=V/R:
-![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/1.jpg)
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/1.png)
 
 Entonces con la anterior deducción¿Para qué valor de RL será máxima la potencia?
-![](https://github.com/BriandaLema/Laboratorio6/blob/master/2.jpg)
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/2.png)
 
 Como RN = RTH, también RL = RN Se dice que la resistencia que disipa Pmax entre dos terminales es la resistencia del circuito equivalente Thévenin o Norton.
 
@@ -37,11 +37,8 @@ En conclusión este teorema nos dice que:
 **"La potencia máxima será desarrollada en la carga cuando la resistencia de carga RL sea igual a la resistencia interna de la fuente Ri"**
 
 
-Importante: 
+*Importante: 
 Cuando se solicita obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
-
-![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Thevenin.png)
-
 
 ## 4. DIAGRAMAS
 
