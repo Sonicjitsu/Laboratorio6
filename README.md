@@ -25,7 +25,7 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 Con el teorema se busca determinar la potencia consumida por una resistencia en un circuito y cuál ha de ser el valor de dicha resistencia para que dicha potencia sea máxima. Graficamente tendremos un circuito equivalente de Thévenin o Norton para poder aplicar el teorema de la máxima tranferencia, en la imagen se puede observar como sería en el caso de circuito equivalente de Thévenin.
 ![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/pic169.jpg)
 
-La potencia disipada en RL se calcula de la siguiente forma, conociendo que por Ley de Watt la pontencia es P= IxV y que por Ley de Ohm V=IR o I=V/R:
+La potencia disipada en RL se calcula de la siguiente forma, conociendo que por Ley de Watt la pontencia es P= I·V y que por Ley de Ohm V=I·R o I=V/R:
 
 ![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/1.png)
 
