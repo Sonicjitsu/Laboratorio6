@@ -20,7 +20,25 @@ Este proyecto consistió en la implementación de un circuito eléctrico, en un 
 
 ## 3. MARCO TEÓRICO 
 
-**TEOREMA DE THÉVENIN**
+**TEOREMA DE MÁXIMA TRANFERENCIA DE POTENCIA**
+
+Con el teorema se busca determinar la potencia consumida por una resistencia en un circuito y cuál ha de ser el valor de dicha resistencia para que dicha potencia sea máxima. Graficamente tendremos un circuito equivalente de Thévenin o Norton para poder aplicar el teorema de la máxima tranferencia, en la imagen se puede observar como sería en el caso de circuito equivalente de Thévenin.
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/pic169.jpg)
+
+La potencia disipada en RL se calcula de la siguiente forma, conociendo que por Ley de Watt la pontencia es P= IxV y que por Ley de Ohm V= IxR o I=V/R:
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/1.jpg)
+
+Entonces con la anterior deducción¿Para qué valor de RL será máxima la potencia?
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/2.jpg)
+
+Como RN = RTH, también RL = RN Se dice que la resistencia que disipa Pmax entre dos terminales es la resistencia del circuito equivalente Thévenin o Norton.
+
+En conclusión este teorema nos dice que: 
+**"La potencia máxima será desarrollada en la carga cuando la resistencia de carga RL sea igual a la resistencia interna de la fuente Ri"**
+
+
+Importante: 
+Cuando se solicita obtener la máxima transferencia de potencia, la resistencia de carga debe adaptarse a la resistencia interna en las fuentes de voltaje.
 
 ![](https://github.com/BriandaLema/Laboratorio5/blob/master/img/Thevenin.png)
 
@@ -169,7 +187,7 @@ Voltaje medido= 3.89 mA
 
 Para complementar la correcta cuantificacion de valores calculados y valores medidos se baso en videos de la plataforma online YouTube, y se implemento el circuito en el simulador multisim para calcular los valores de la potencia experimentales ya que el simulador tinkercad no nos ofrece esa opción
 
-![]()
+![](https://github.com/BriandaLema/Laboratorio6/blob/master/img/Multisim.jpg)
 
 ## 10. CONCLUSIONES
 
@@ -196,10 +214,9 @@ https://trello.com/b/IgDMHPw0/laboratorio-6
 
 ## 13. BIBLIOGRAFÍA
 
-* carakenio73. (10 de Noviembre de 2019). dademuchconnection. Obtenido de https://dademuch.com/2019/11/10/teorema-de-thevenin-analisis-de-circuitos-electricos/
+* Semeria, M. (2015). Los tres teoremas: Fourier-Nyquist-Shannon (No. 582). Serie Documentos de Trabajo. Obtenido de https://www.econstor.eu/handle/10419/130833
 
-* XNOMIND. (07 de Noviembre de 2019). Teorema. Obtenido de https://www.teorema.top/teorema-de-thevenin/#Pasos_para_aplicar_el_teorema_de_Thevenin
-
+* Máxima transferencia de potencia. (s.f). ANÁLISIS DE CIRCUITOS Y SISTEMAS LINEALES. Universitas Miguel Hernández. Obtenido de http://repositorio.innovacionumh.es/Proyectos/P_19/Tema_1/UMH_09.htm
 
 
 ## 14.- ANEXOS
