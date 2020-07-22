@@ -115,29 +115,11 @@ COMPROBACIÓN DEL TEOREMA DE THÉVENIN
 
 * VOLTAJE (V)
 
-| CALCULADO | MEDIDO  | 
+| RL (Ω) |  | 
 |----------|------|
 | 4.22 V | 3.9 V |
 
-* CORRIENTE (mA)
 
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  4.22 mA | 3.9 mA |
-
-* **CIRCUITO EQUIVALENTE DE THÉVENIN**
-
-* VOLTAJE (V)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 V | 3.89 V |
-
-* CORRIENTE (mA)
-
-| CALCULADO | MEDIDO  | 
-|----------|------|
-|  3.84 mA| 3.89 mA  |
 
 - **CÁLCULO DEL ERROR DEL VOLTAJE DE THÉVENIN**
 
